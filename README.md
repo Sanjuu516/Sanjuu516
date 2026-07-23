@@ -94,16 +94,39 @@ My work focuses on bridging decentralized trust networks with scalable web platf
 
 ---
 
-## 📈 GitHub Metrics & Activity
+## 📈 GitHub Metrics & Technical Activity
+
+### 🏆 GitHub Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjuu516&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Sanjuu516 Trophies" />
+</p>
+
+### ⚡ Contribution Analytics & Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjuu516&show_icons=true&theme=radial&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Sanjana's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjuu516&layout=compact&theme=radial&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjuu516&show_icons=true&theme=radial&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a&include_all_commits=true&count_private=true" alt="Sanjana's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjuu516&layout=compact&theme=radial&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a&hide=html,css" alt="Top Engineering Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjuu516&theme=radial&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjuu516&theme=radial&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Commit Streak" width="97%" />
 </p>
+
+### 📊 Code Commit Velocity & Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjuu516&theme=react-dark&hide_border=true&area=true&color=38bdf8" alt="Sanjuu516 Activity Graph" width="97%" />
+</p>
+
+### 📊 Repository & Development Velocity Breakdown
+
+| Metric Indicator | Technical Details & Domain Focus |
+| :--- | :--- |
+| **Total Public Repositories** | **20+ Projects** spanning Blockchain DApps, AI Agents, Full-Stack Web, and Mobile |
+| **Primary Smart Contract Dialects** | Solidity (`^0.8.0`), EVM Bytecode Execution, ERC Token Protocols |
+| **Core Full-Stack Stack** | React 18, TypeScript, JavaScript (ES6+), Node.js, Express, MongoDB Atlas |
+| **AI & NLP Specialization** | Python 3, Natural Language Processing, Autonomous Agent Control Planes |
+| **Deployment & CI Environments** | Vercel, Ethereum Testnets (Sepolia / Ganache), GitHub Pages, Docker |
 
 ---
 
