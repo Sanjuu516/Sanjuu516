@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Sanjana!+👋;Architecting+Decentralized+Supply+Chains;EVM+Smart+Contracts+%26+Web3+Systems;High-Performance+Microservice+APIs+(FastAPI%2FFlask);Modern+Full-Stack+Applications+(React%2FStreamlit)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+there%2C+I+am+Sanjana!;Architecting+Decentralized+Supply+Chains;EVM+Smart+Contracts+%26+Web3+Systems;High-Performance+Microservice+APIs;Modern+Full-Stack+Applications" alt="Sanjana's Portfolio Header" />
 
   <p align="center">
     <b>Architecting Decentralized Supply Chains, EVM Smart Contracts, High-Performance Microservice APIs, and Modern Full-Stack Applications.</b>
