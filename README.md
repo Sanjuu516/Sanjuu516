@@ -2,9 +2,6 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+there%2C+I+am+Sanjana!;Architecting+Decentralized+Supply+Chains;EVM+Smart+Contracts+%26+Web3+Systems;High-Performance+Microservice+APIs;Modern+Full-Stack+Applications" alt="Sanjana's Portfolio Header" />
 
-  <p align="center">
-    <b>Architecting Decentralized Supply Chains, EVM Smart Contracts, High-Performance Microservice APIs, and Modern Full-Stack Applications.</b>
-  </p>
 
   <p align="center">
     <a href="https://github.com/Sanjuu516"><img src="https://img.shields.io/github/followers/Sanjuu516?label=Followers&style=for-the-badge&color=38bdf8&logo=github" alt="GitHub Followers"></a>
